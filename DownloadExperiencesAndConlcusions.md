@@ -40,4 +40,13 @@ would be incredibly difficult.
 	* So I've also never had experience with Git LFS, Homebrew, or even basic ideas like cloning repositories and building them on my local machine
 * I'd say I have moderate experience with downloading applications that I gained from other classes
 	* Examples: NetBeans, MySQLWorkbench, XAMPP
-* I had some issues with those applications as well, but it seems that there was far more help in dealing with them
+* I had some issues with those applications as well, but it seems that there was far more help online for dealing with them
+
+
+# Conclusions
+* I'm not particularly happy with the findings I've made, but as you've said that itself is an important takeaway. Self-driving cars and autonomous systems as a whole are gaining more traction everyday, but it appears that the technology still has progress to make in order to be accessible to students.
+	* More specifically, it was not difficult to find lists of self-driving car simulators with only a few google searches. However, finding ones that were free and available for download was a different story, and actually downloading them was an even greater challenge.
+* While it seems that some universities have classes dealing with autonomous systems, it appears that the majority are not there yet or just have classes that teach only teach theory for autonomous systems.
+* I have not yet had a chance to download VMware and attempt to download Voyage Deepdrive on an Ubuntu virtual machine, but I plan to do that within the next few weeks before the fall semester starts. Either way, I recommend taking a look at Deepdrive's download instructions - saying that they overwhelm me is an understatement, even after dealing with the instructions for two other simulators. 
+
+* Lastly, I wanted to thank you for teaching this class and for being extremely helpful over the past few months. This summer ended up in a much different direction than I expected, but you helped me to still come away with new knowledge and skills.
